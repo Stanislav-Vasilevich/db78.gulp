@@ -54,16 +54,16 @@
       top: 30px;
       left: -150px;
       color: white;
-      background:#53a700;
+      background:#24A1DE;
       width: 150px;
-      border: 1px solid green;
+      border: 1px solid #24A1DE;
       border-radius: 20px 0 20px 20px;
       text-align: center;
       padding: 10px;
       transition: .4s all;
       &:hover {
-        color: black;
-        background:chartreuse;
+        color: white;
+        background: #0e5071;
       }
     }
   }
